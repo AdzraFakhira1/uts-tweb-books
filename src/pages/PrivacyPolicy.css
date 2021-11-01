@@ -1,0 +1,19 @@
+#privacypolicy h1 {
+    @apply text-3xl font-bold mb-8;
+}
+
+#privacypolicy h2 {
+    @apply text-2xl font-bold mt-7;
+}
+
+#privacypolicy p {
+    @apply my-3;
+}
+
+#privacypolicy a {
+    @apply text-red-700 hover:text-opacity-80;
+}
+
+#privacypolicy ul {
+    @apply list-inside list-disc;
+}
